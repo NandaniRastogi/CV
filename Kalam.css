@@ -1,0 +1,49 @@
+body{
+	background-color: rgba(162, 230, 252, 0.4);
+	border: black 10px solid;
+	padding: 90px 150px 30px 200px;
+
+
+}
+img{
+	border-radius: 60%;
+	 box-shadow: 10px 10px 10px ;
+}
+.head{
+	font-size: 50px;
+	font-weight: bolder;
+  text-align: right;
+  padding-top: 30px;
+
+}
+h2{
+	font-size: 50px;
+	  text-align: right;
+	font-weight: bolder;
+
+}
+.container{
+ float: right;
+}
+#heading{
+font-size: 80px;
+}
+#description{
+	word-spacing: 12px;
+	font-size: 22px;
+	font-family: cursive;
+}
+ul{
+	word-spacing: 6px;
+	font-size: 20px;
+
+}
+ ul>li{
+ 	padding-top: 15px;
+ }
+	.last{ padding-top: 20px;
+		text-align: right;
+		font-size: 20px;
+
+	}
+	
